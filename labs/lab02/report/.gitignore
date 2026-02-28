@@ -1,3 +1,5 @@
 /.quarto/
 /_output/
+/fonts/
+/juliamono.sty/
 **/*.quarto_ipynb

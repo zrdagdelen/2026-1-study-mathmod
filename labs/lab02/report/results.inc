@@ -1,0 +1,9 @@
+\newcommand{\xone}{3.0877}
+\newcommand{\xtwo}{4.7568}
+\newcommand{\alphaVal}{4.5924}
+\newcommand{\rintersectone}{3.664}
+\newcommand{\rintersecttwo}{11.186}
+\newcommand{\xintone}{2.591}
+\newcommand{\yintone}{2.591}
+\newcommand{\xinttwo}{7.91}
+\newcommand{\yinttwo}{7.91}
